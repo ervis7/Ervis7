@@ -29,7 +29,7 @@ I have practical experience with Microsoft 365, Action1, PowerShell, Windows sup
 ### Tic-Tac-Toe Game – Java University Project
 A command-line Tic-Tac-Toe game developed in Java as part of a university programming assignment. The project applies object-oriented programming principles and design patterns such as Strategy and Factory.
 
-### Drone Project – University Project
+### Drone Project – Java University Project
 A university project focused on drone technology as part of my Computer Science studies.
 
 ### Ancient Sites Website – Web Development Project
